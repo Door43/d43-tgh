@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tgh:home|Door43 (tgh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tgh|d43-tgh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tgh/archive/master.zip|d43-tgh.zip]]
+
+**Recent Changes**
+{{changes>ns = tgh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tgh|Ethnologue data]]
+
